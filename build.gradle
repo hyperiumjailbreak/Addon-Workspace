@@ -26,5 +26,5 @@ minecraft {
 repositories { maven { url 'https://jitpack.io' } }
 
 dependencies {
-    compile 'com.hyperiumjailbreak:client:master-SNAPSHOT'
+    compile 'com.github.hyperiumjailbreak:client:master-SNAPSHOT'
 }
