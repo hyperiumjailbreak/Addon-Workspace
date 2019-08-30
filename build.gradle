@@ -23,8 +23,8 @@ minecraft {
     makeObfSourceJar = true
 }
 
-repositories { maven { url 'https://hyperiumjailbreak.mycloudrepo.io/public/repositories/jitpack-proxy' } }
+repositories { maven { url 'https://jitpack.io' } }
 
 dependencies {
-    compile 'com.hyperiumjailbreak:client:+'
+    compile 'com.hyperiumjailbreak:client:master-SNAPSHOT'
 }
