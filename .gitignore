@@ -9,3 +9,6 @@ src/test/
 gradle/
 gradlew
 .DS_Store
+.settings
+.project
+.classpath
